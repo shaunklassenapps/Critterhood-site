@@ -190,11 +190,11 @@ section { padding: 48px 0; }
 
 #features { padding-top: 8px; padding-bottom: 40px; }
 
-#alert-zones { padding-top: 8px; padding-bottom: 40px; }
+#alert-zones { padding-top: 8px; padding-bottom: 64px; }
 
 .band { padding: 36px 0; }
 
-#how-it-works { padding-top: 36px; padding-bottom: 40px; }
+#how-it-works { padding-top: 48px; padding-bottom: 40px; }
 
 .section-head {
   text-align: center;
