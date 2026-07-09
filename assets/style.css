@@ -188,13 +188,13 @@ a:hover { color: var(--green-dark); }
 /* Sections */
 section { padding: 48px 0; }
 
-#features { padding-top: 8px; }
+#features { padding-top: 8px; padding-bottom: 40px; }
 
-#alert-zones { padding-top: 8px; padding-bottom: 8px; }
+#alert-zones { padding-top: 8px; padding-bottom: 40px; }
 
 .band { padding: 36px 0; }
 
-.band + section { padding-top: 16px; }
+#how-it-works { padding-top: 36px; padding-bottom: 40px; }
 
 .section-head {
   text-align: center;
