@@ -432,14 +432,14 @@ section { padding: 48px 0; }
 
 .band-inner {
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  gap: 24px;
+  text-align: center;
+  gap: 18px;
 }
 
-.band h2 { margin: 0 0 6px; font-size: 1.5rem; }
-.band p { margin: 0; color: var(--muted); }
+.band h2 { margin: 0; font-size: 1.5rem; max-width: 560px; }
+.band p { margin: 0; color: var(--muted); max-width: 480px; }
 
 /* Footer */
 .site-footer {
